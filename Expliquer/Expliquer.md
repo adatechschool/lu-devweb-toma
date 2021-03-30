@@ -19,6 +19,7 @@ Le code coverage represente le taux d'execution des lignes de code d'un programm
 
 ## TDD
 
-Le Test Driven Development 
+Le Test Driven Development est une maniere de developper des programmes, axees sur les tests avant la mise en production.
 
 ## F.I.R.S.T.
+
